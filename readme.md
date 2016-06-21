@@ -9,7 +9,7 @@ React is just a library and definitely It will need other tools, libraries, fram
 In this **four-part blog series**  React + Redux tutorial I am going to explain how to build real-word application from the ground up. 
 
 * [Part 1 - Setup Dev Environment](https://github.com/asimzsaeed/building-application-with-react-and-redux-in-es6-part1-setup-dev-environment)
-* Part 2 - React Component and Setup React Router
+* [Part 2 - React Component and Setup React Router](https://github.com/asimzsaeed/building-application-with-react-and-redux-in-es6-part2)
 * Part 3 - Redux, Actions, Stores and Reducers + React with Redux
 * Part 4 - Testing React + Redux
 
